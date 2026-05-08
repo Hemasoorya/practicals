@@ -1,0 +1,2 @@
+# practicals
+practicals from hicet
